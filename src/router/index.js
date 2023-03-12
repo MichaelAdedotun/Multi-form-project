@@ -9,7 +9,7 @@ const routes = [
         component: InfoView
     },
    {
-        path: 'plan',
+        path: '/plan',
         component: PlanView
     },
 ]
