@@ -4,9 +4,6 @@
 
 <template>
   <MultiformHeader />
-  <section>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, veniam.</p>
-  </section>
 </template>
 
 <style scoped>
